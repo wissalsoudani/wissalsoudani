@@ -25,6 +25,8 @@
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img height=40 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+
 
  <br>
 
