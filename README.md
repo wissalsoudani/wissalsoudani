@@ -31,16 +31,18 @@
  ##  📈 GitHub Stats 
  <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wissalsoudani&show_icons=true&theme=radical&hide_border=true&" />
- <table style="border: hidden;" align="center">
+ 
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=wissalsoudani&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
+<table style="border: hidden;" align="center">
     <tbody>
         <tr valign="top">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wissalsoudani&layout=compact&theme=chartreuse-dark"/> 
         </tr>
     </tbody>
 </table>  
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=wissalsoudani&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</p>
 
 
 
