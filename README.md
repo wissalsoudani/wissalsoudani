@@ -10,9 +10,9 @@
 
 # ✨ About Me 
 
-- 🔭 I’m currently working on An Integration Development Project using Spring/Angular/Data mining Tools.
+- 🔭 I'm a perpetual Learner, constantly seeking chances to enhance my abilities and expand my understanding.
 
-- 🌱 I’m currently learning about developing myself, becoming a full stack Spring-Java/Angular Developer &  Devop's Developer
+- 🌱 I’m currently learning about developing my skills and expertiese, becoming a full stack Spring-Java/Angular Developer and Devop's developer.
 
 - 📫 How to reach me:  **wissal.soudani@esprit.tn**   **wissal.tozeur@gmail.com**
  <br>
