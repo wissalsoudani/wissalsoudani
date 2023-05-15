@@ -13,9 +13,9 @@
 
 - 🔭 I'm a perpetual Learner, constantly seeking chances to enhance my abilities and expand my understanding.
 
-- 🌱 I’m currently learning about developing my skills and expertiese, becoming a full stack Spring-Java/Angular Developer and Devop's developer.
+- 🌱 I’m currently learning about developing my skills and expertiese, becoming a full stack Spring-Java/Angular Developer and aiming to be a Devop's developer.
 
-- 📫 How to reach me:  **wissal.soudani@esprit.tn**  
+- 📫 Reach me through E-mail:  **wissal.soudani@esprit.tn**  
  <br>
 
 ## ⚡ Skills
