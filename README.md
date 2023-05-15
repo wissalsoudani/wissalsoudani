@@ -1,20 +1,18 @@
 <h1 align="center">Hi👋 I'm Wissal, A Software Architecture Engineering Student</h1>
-<h5 align="left">You Can Connect me Through:</h5>
-
-<p><img align="right" width="50%" src="https://github.com/wissalsoudani/wissalsoudani/blob/main/wissalfor.jpeg" alt="Wissal-Soudani" /></p>
+<h5 align="left">Let's get in touch:</h5>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wissalsoudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wissalsoudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissalsoudani" height="30" width="30" /></a>
 </p>
 <br>
 
-# ✨ About Me 
+## ✨ About Me 
 
 - 🔭 I'm a perpetual Learner, constantly seeking chances to enhance my abilities and expand my understanding.
 
 - 🌱 I’m currently learning about developing my skills and expertiese, becoming a full stack Spring-Java/Angular Developer and Devop's developer.
 
-- 📫 How to reach me:  **wissal.soudani@esprit.tn**   **wissal.tozeur@gmail.com**
+- 📫 How to reach me:  **wissal.soudani@esprit.tn**  
  <br>
 
 ## ⚡ Skills
