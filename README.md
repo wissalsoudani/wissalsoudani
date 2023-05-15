@@ -1,4 +1,7 @@
 <h1 align="center">Hi👋 I'm Wissal, A Software Architecture Engineering Student</h1>
+<p align="left">
+  <img  src="https://komarev.com/ghpvc/?username=wissalsoudani&label=Profile%20views&color=D69254&style=flat" alt="wissalsoudani" />
+</p>
 <h5 align="left">Let's get in touch:</h5>
 
 <p align="left">
