@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Wissal, A Software Architecture Engineering Student</h1>
+<h1 align="center">Hi👋 I'm Wissal, A Software Engineer to be</h1>
 <p align="left">
   <img  src="https://komarev.com/ghpvc/?username=wissalsoudani&label=Profile%20views&color=D69254&style=flat" alt="wissalsoudani" />
 </p>
@@ -13,9 +13,9 @@
 
 - 🔭 I'm a perpetual Learner, constantly seeking chances to enhance my abilities and expand my understanding.
 
-- 🌱 I’m currently learning about developing my skills and expertiese, becoming a full stack Spring-Java/Angular Developer and aiming to be a Devop's developer.
+- 🌱 I’m currently learning about developing my skills and expertiese, taking every single chance i get to improve myself.
 
-- 📫 Reach me through E-mail:  **wissal.soudani@esprit.tn**  
+- 📫 Other than my studies, i am keen on content writing, blog and article redaction. I would love to work on mixing both my passion for writing and my software- engineering background!
  <br>
 
 ## ⚡ Skills
