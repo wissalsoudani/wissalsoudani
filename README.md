@@ -5,7 +5,14 @@
 <h5 align="left">Let's get in touch:</h5>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wissalsoudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissalsoudani" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/wissalsoudani" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissalsoudani" height="30" width="30" />
+</a>
+  <a></a>
+<a href="https://wissalsoudani.medium.com" target="blank"> 
+<img align="center" src="https://img.icons8.com/ios-filled/30/CCCCCC/medium-new.png"alt="wissalsoudani" height="40" width="40" />
+</a>
+  
 </p>
 <br>
 
