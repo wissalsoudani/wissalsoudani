@@ -20,7 +20,10 @@
 
 ## ⚡ Skills
 
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img height=40 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/><img height=40 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=40 
+src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /><img height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img height=40 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
+<img height=40 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img height=40 src="https://symfony.com/logos/symfony_black_03.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
