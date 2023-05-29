@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Wissal, A Software Engineer to be</h1>
+<h1 align="center">Hi👋 I'm Wissal, A Software Engineer in progress</h1>
 <p align="left">
   <img  src="https://komarev.com/ghpvc/?username=wissalsoudani&label=Profile%20views&color=D69254&style=flat" alt="wissalsoudani" />
 </p>
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning about developing my skills and expertiese, taking every single chance i get to improve myself.
 
-- 📫 Other than my studies, i am keen on content writing, blog and article redaction. I would love to work on mixing both my passion for writing and my software- engineering background!
+- 📫 Other than my studies, i am keen on content writing, blog and article redaction. I aim to work with Documentations so i would be mixing both my passion for writing and my Software-Engineering background!
  <br>
 
 ## ⚡ Skills
