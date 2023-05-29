@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
-
+<img height=40 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 
  <br>
 
