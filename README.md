@@ -9,16 +9,21 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissalsoudani" height="30" width="30" />
 </a>
   <a></a>
+  <a></a>
 <a href="https://wissalsoudani.medium.com" target="blank"> 
 <img align="center" src="https://img.icons8.com/ios-filled/30/CCCCCC/medium-new.png"alt="wissalsoudani" height="40" width="40" />
 </a>
-  
+  <a></a>
+  <a></a>
+  <a href="https://stackoverflow.com/users/22041540/wissal-soudani">
+    <img src="https://img.icons8.com/metro/26/CCCCCC/stackoverflow.png"/>
+  </a>
 </p>
 <br>
 
 ## ✨ About Me 
 
-- 🔭 I'm a perpetual Learner, constantly seeking chances to enhance my abilities and expand my understanding.
+- 🔭 I'm a perpetual Learner, self-taught Engineer who's constantly seeking chances to enhance my abilities and expand my understanding.
 
 - 🌱 I’m currently learning about developing my skills and expertiese, taking every single chance i get to improve myself.
 
@@ -28,8 +33,10 @@
 ## ⚡ Skills
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=40 
+src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" /><img height=40 
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /><img height=40 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img height=40 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height=40 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img height=40 src="https://symfony.com/logos/symfony_black_03.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"/>
@@ -37,6 +44,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
+<img height=40 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <img height=40 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
