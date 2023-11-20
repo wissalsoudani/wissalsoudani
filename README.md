@@ -48,6 +48,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <img height=40 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img height=40 src="https://iconape.com/wp-content/files/kd/371533/svg/371533.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"/>
+<img height=40 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
+<img height=40 src="https://www.eclipse.org/community/eclipse_newsletter/2019/march/images/sonarlint.png"/>
+<img height=40 src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png"/>
+<img height=40 src="https://vectorwiki.com/images/vynW5__sonarqube.svg"/>
+
 
  <br>
 
