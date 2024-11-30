@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋 I'm Wissal, A Software Engineer in progress</h1>
+<h1 align="center">Hello there👋 I'm Wissal, A Software Architecture Engineer</h1>
 <p align="left">
   <img  src="https://komarev.com/ghpvc/?username=wissalsoudani&label=Profile%20views&color=D69254&style=flat" alt="wissalsoudani" />
 </p>
@@ -23,19 +23,19 @@
 
 ## ✨ About Me 
 
-- 🔭 I'm a perpetual Learner, self-taught Engineer who's constantly seeking chances to enhance my abilities and expand my understanding.
+- 🔭 I'm a perpetual Learner, a self-taught Engineer constantly seeking opportunities to enhance my abilities and expand my understanding. 
 
-- 🌱 I’m currently learning about developing my skills and expertiese, taking every single chance i get to improve myself.
+- 🌱 Professional experience in international environments (France, UK), Specializing in backend development and DataOps-DevOps, with strong expertise in designing and optimizing scalable systems.
 
-- 📫 Other than my studies, i am keen on content writing, blog and article redaction. I aim to work with Documentations so i would be mixing both my passion for writing and my Software-Engineering background!
+- 📫 Passionate about innovation, aim to collaborate with teams that value an entrepreneurial spirit, creativity, and technological impact. I am also active in technical content writing and public speaking.
  <br>
 
 ## ⚡ Skills
 
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=40 
-src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" /><img height=40 
-src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /><img height=40 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img height=40 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+<img height=40 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img height=40 src="https://symfony.com/logos/symfony_black_03.svg"/>
@@ -58,7 +58,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img height=40 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
 <img height=40 src="https://www.eclipse.org/community/eclipse_newsletter/2019/march/images/sonarlint.png"/>
 <img height=40 src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png"/>
-<img height=40 src="https://vectorwiki.com/images/vynW5__sonarqube.svg"/>
+<img height=40 src="https://img.shields.io/badge/SonarQube-ffffff?style=for-the-badge&logo=sonarqube&logoColor=blackg"/>
+<img height=40 src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img height=40 src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img height=40 src="https://img.shields.io/badge/DataOps-0078D4?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img height=40 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
  <br>
